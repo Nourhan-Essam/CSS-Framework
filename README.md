@@ -1,7 +1,7 @@
 # 🚀 Modern Landing Page - Task 3 (CSS Frameworks)
 
 A sleek, professional landing page built to demonstrate advanced UI customization using **Tailwind CSS**. This project focuses on cohesive design language, responsiveness, and clean code architecture.
-
+This project is the Third Task of the **CodeVeda Technologies** Internship. It demonstrates advanced UI customization and layout building using **Tailwind CSS**.
 ## 🌐 Live Demo
 Check out the live version here: 
 👉 **[https://nourhan-essam.github.io/CSS-Framework/]**
